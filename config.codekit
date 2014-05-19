@@ -47,6 +47,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/hero-panadas.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 117215,
+		"inputAbbreviatedPath": "\/img\/hero-panadas.jpg",
+		"outputAbbreviatedPath": "\/img\/hero-panadas.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/logo-footer-hp-panadas.png": {
 		"fileType": 32768,
 		"ignore": 0,
