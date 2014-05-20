@@ -2,18 +2,27 @@ body p {
 	color: #343728;
 }
 
-/*
-body ul {
-	list-style: none;
-	clear: both;
-	overflow: auto;
-}
-*/
-
 a.button {
 	font-family: 'Gotham', 'Open Sans', sans-serif;
 	font-size: 1.2em;
 	border-radius: .4em;
+}
+
+a.cta-see-flavors {
+
+	display: block;
+	width: 160px;
+	height: 44px;
+	margin-left: -80px;
+
+	position: absolute;
+	bottom: 33px;
+	left: 50%;
+
+	background: url('../img/button-see-flavors.png') no-repeat;
+
+	text-indent: -999em;
+
 }
 
 h2 span {
@@ -31,8 +40,13 @@ h2 span {
 }
 
 #page-header > div {
+
 	height: 618px;
+
+	position: relative;
+
 	background: url('../img/hero-panadas.jpg') top center no-repeat;
+
 }
 
 
@@ -42,7 +56,7 @@ h2 span {
 
 #page-header h1 {
 	height: 300px;
-	background: url('../img/logo-header-hp-panadas.png') top right no-repeat;
+	background: url('../img/logo-header-hp-panadas.png') top center no-repeat;
 }
 
 #page-header h2 {
@@ -295,11 +309,38 @@ ul.facts {
 }
 
 #page-footer ul {
+	margin: 1.3em 0 .8em 0;
 	font-size: .8em;
 }
 
 #page-footer ul li {
 	display: inline-block;
+	height: 37px;
 }
 
+#page-footer .truste {
+	width: 134px;
+	height: 37px;
+	margin-left: .5em;
+}
 
+#page-footer .external-links a {
+	display: block;
+	width: inherit;
+	height: inherit;
+
+	line-height: 2.8em;
+
+}
+
+#page-footer .truste a {
+
+	background: url('../img/logo-truste-privacy.png') no-repeat;
+
+	text-indent: -999em;
+
+}
+
+#free-sample-form {
+	padding: 0;
+}
