@@ -2,11 +2,13 @@ body p {
 	color: #343728;
 }
 
+/*
 body ul {
 	list-style: none;
 	clear: both;
 	overflow: auto;
 }
+*/
 
 a.button {
 	font-family: 'Gotham', 'Open Sans', sans-serif;
@@ -128,6 +130,7 @@ h2 span {
 
 ul.facts {
 	margin: 0;
+	list-style: none;
 }
 
 #panada-facts ul.facts li {
@@ -192,6 +195,15 @@ ul.facts {
 }
 
 #flavors ul {
+	margin: 0;
+	list-style: none;
+}
+
+#flavors li {
+	height: 360px;
+}
+
+#flavors li p {
 	margin: 0;
 }
 
