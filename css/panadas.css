@@ -151,6 +151,8 @@ h2 span {
 
 	#panadas-intro div h2 {
 		min-height: 142px;
+		background-size: 80%;
+		background-position: center center;
 	}
 
 	#panada-facts div ul.facts li {
