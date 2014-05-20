@@ -108,6 +108,7 @@ h2 span {
 
 
 #panada-facts {
+	padding-bottom: 3em;
 	background: #f4f1eb;
 }
 
@@ -132,8 +133,7 @@ ul.facts {
 #panada-facts ul.facts li {
 
 	margin: 0 0 .8em 0;
-	padding-top: 1.6em;
-	padding-bottom: 1.6em;
+	padding: 1.6em 1.9em;
 
 	background: url('../img/bg-fact-box.png') center center no-repeat;
 	background-size: 96%;
@@ -278,7 +278,12 @@ ul.facts {
 	color: #bfbfbf;
 }
 
+#page-footer p {
+	font-size: .8em;
+}
+
 #page-footer ul {
+	font-size: .8em;
 }
 
 #page-footer ul li {
