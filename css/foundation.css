@@ -40,15 +40,17 @@ body {
 
 body {
   background: white;
-  color: #343728;
+  color: #2a1b33;
   padding: 0;
   margin: 0;
-  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "Times New Roman", Georgia, Serif;
   font-weight: normal;
   font-style: normal;
   line-height: 1;
   position: relative;
-  cursor: default; }
+  cursor: default; 
+	font-size:16px;
+}
 
 a:hover {
   cursor: pointer; }
@@ -1235,11 +1237,11 @@ td {
 
 /* Default Link Styles */
 a {
-  color: #5b623d;
+  color: #4a4150;
   text-decoration: none;
   line-height: inherit; }
   a:hover, a:focus {
-    color: #4e5434; }
+    color: #4a4150; }
   a img {
     border: none; }
 
@@ -1261,10 +1263,9 @@ p {
 
 /* Default header styles */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
-  color: #5b613f;
+  color: #4a4150;
   text-rendering: optimizeLegibility;
   margin-top: 0.2rem;
   margin-bottom: 0.5rem;
@@ -1322,7 +1323,6 @@ small {
   line-height: inherit; }
 
 code {
-  font-family: Consolas, "Liberation Mono", Courier, monospace;
   font-weight: bold;
   color: #910b0e; }
 
@@ -1798,10 +1798,9 @@ button, .button {
   border-style: solid;
   border-width: 0px;
   cursor: pointer;
-  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
   line-height: normal;
-  margin: 0 0 1.25rem;
+  margin: 0 0 0rem;
   position: relative;
   text-decoration: none;
   text-align: center;
@@ -1813,12 +1812,12 @@ button, .button {
   padding-bottom: 1.0625rem;
   padding-left: 2rem;
   font-size: 1rem;
-  background-color: #5b623d;
-  border-color: #494e31;
+  background-color: #2a1b33;
+  border-color: #2a1b33;
   color: white;
   transition: background-color 300ms ease-out; }
   button:hover, button:focus, .button:hover, .button:focus {
-    background-color: #494e31; }
+    background-color: #2a1b33; }
   button:hover, button:focus, .button:hover, .button:focus {
     color: white; }
   button.secondary, .button.secondary {

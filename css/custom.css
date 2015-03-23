@@ -1,0 +1,751 @@
+body p {
+	color: #2a1b33;
+}
+
+body hr {
+	border-top: 5px solid #d2c8b8;
+}
+
+.align_right{
+	text-align:right;
+}
+
+.gluten_free{
+	height:84px;
+	padding-top:10px;
+	text-align:right;
+}
+
+a.button {
+	font-size: 1.6em;
+	border-radius: .4em;
+}
+
+a.cta-see-recipes {
+	display: block;
+	width: 300px;
+	margin-left: -150px;
+	position: absolute;
+	bottom: 1em;
+	left: 50%;
+	text-align:center;
+	font-size:1.2em;
+	text-transform:uppercase;
+	font-style: italic;
+	color:#4a4150;
+}
+
+h2 span {
+	font-style: italic;
+}
+
+#page-header {
+	background: #E7DAC7;
+	background: url('../img/headerbg.jpg') top center no-repeat;
+	background-size: 100% 100%;
+}
+
+#page-header > div {
+	position: relative;
+	min-height: 504px;
+	padding: 2em 2em 0 2em;
+}
+
+
+#page-header h1, #page-header h2 {
+text-align:center;
+color:#2a1b33;
+}
+
+#page-header h1 {
+	padding-top:1.3em;
+	font-size:3.5em;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+#page-header h1 span{
+	font-style:italic;
+	font-weight:normal;
+	text-transform: capitalize;
+}
+
+#page-header h2 {
+	font-size:1.5em;
+	padding-right:10%;
+	padding-left:10%;
+	font-style:italic;
+}
+
+#page-header h2 span{
+	font-weight:normal;
+	font-style:normal;
+	font-size:.6em;
+}
+
+#gluten_free_growing {
+	background: #E7DAC7;
+	background: url('../img/gluten_free_growing.jpg') top center no-repeat;
+	background-size: 100% 100%;
+}
+
+#gluten_free_growing > div {
+	position: relative;
+	min-height: 504px;
+	padding: 2em 2em 0 2em;
+}
+
+
+#gluten_free_growing h2 {
+clear:both;
+text-align:center;
+color:#2a1b33;
+}
+
+.gluten_free_growing_head{
+	text-align:center;
+}
+
+#gluten_free_growing h2 {
+	font-size:1.8em;
+	padding:20px 0px;
+	color:#4a4150;
+	border-top:1px solid #4a4150;
+	border-bottom:1px solid #4a4150;
+	margin: 40px auto;
+	display:inline-block;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+
+#gluten_free_growing .content{
+	background-color:#f2ebe1;
+	min-height:204px;
+	background-image:url(../img/fork.png);
+	background-repeat:no-repeat;
+	background-position:40px 30px;
+}
+
+#gluten_free_growing p {
+	padding:30px 20px;
+	font-size:1.5em;
+}
+
+#gluten_free_growing p span{
+	font-size:0.7em;
+	line-height:0.4em;
+}
+
+
+
+
+#intro-cta {
+	padding: 4.0em 0;
+	background-color:#8d7e88;
+}
+
+#intro-cta h2 {
+
+	margin: 0;
+	letter-spacing: 1px;
+	font-size: 1.4em;
+	line-height:1.2em;
+	font-style: normal;
+	font-weight: bold;
+	color:#ffffff;
+
+}
+
+#intro-cta h2 span{
+	font-style:italic;
+}
+
+#intro-cta .sample-cta {
+	text-align: center;
+}
+
+#intro-cta .sample-cta span {
+	display: block;
+	font-size: .7em;
+}
+
+#customize_alfredo {
+	padding: 0em 0;
+}
+
+#customize_alfredo .medium-5{
+	padding:4.0em 0em;
+}
+#customize_alfredo .medium-4{
+	padding:3.0em 0em;
+	color:#2a1b33;
+}
+#customize_alfredo h2 {
+
+	margin: 0;
+
+	font-size: 1.4em;
+	font-style: normal;
+	font-weight: bold;
+
+}
+
+#customize_alfredo .sample-cta {
+	text-align: center;
+}
+
+#customize_alfredo .sample-cta span {
+	display: block;
+	font-size: .5em;
+}
+
+
+
+#gluten-facts {
+	padding-bottom: 3em;
+	background: #f4f1eb;
+}
+
+#gluten-facts .gluten_first_content{
+	font-size:1.2em;
+	text-align:center;
+	font-weight:bold;
+}
+
+.gluten_facts_head{
+	text-align:center;
+}
+
+#gluten-facts h2 {
+	font-size:1.8em;
+	padding:20px 0px;
+	color:#4a4150;
+	border-top:1px solid #4a4150;
+	border-bottom:1px solid #4a4150;
+	margin: 40px auto;
+	display:inline-block;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+
+#gluten-facts .pans_wrapper{
+	border-top: 1px solid #c5bcaf;
+	border-bottom: 1px solid #c5bcaf;
+	padding: 20px 0px;
+	margin:20px 0px;
+}
+
+#gluten-facts .pans_wrapper .content{
+	padding:20px 0px;
+	font-weight:bold;
+	font-size:1.2em;
+}
+
+#gluten-facts .pans_wrapper .content span{
+	text-transform:uppercase;
+	font-style:italic;
+}
+
+#gluten-facts .gluten-facts-list .gluten-facts-list-content{
+	margin:2em 0em;
+}
+#gluten-facts .gluten-facts-list .gluten-facts-list-content{
+	background-color:#ffffff;
+	border-radius: .4em;
+	text-align:center;
+	overflow:hidden;
+}
+
+#gluten-facts .gluten-facts-list h3{
+	font-weight:bold;
+	font-style:italic;
+	padding:20px;
+	text-transform:uppercase;
+	font-size:1.25em;
+}
+
+#gluten-facts .gluten-facts-list .colored p{
+	color:#ffffff;
+	font-size:1.12em;
+	text-align:right;
+	margin:0em;
+}
+#gluten-facts .gluten-facts-list .colored p.price{
+	font-weight:bold;
+	text-align:left;
+	padding-left:20px;
+}
+#gluten-facts .gluten-facts-list .colored{
+	background-color:#8d7e88;
+}
+#gluten-facts .gluten-facts-list .row.colored{
+	margin-right:0px;
+	margin-left:0px;
+}
+#gluten-facts .gluten-facts-list .colored .columns{
+	padding-right:0px;
+	padding-left:0px;
+}
+#gluten-facts .gluten-facts-list .colored ul, #gluten-facts .gluten-facts-list .colored ul li{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+
+#gluten-facts .gluten-facts-list .colored ul li{
+	padding:1.2em 0em;
+	margin: 0em 5em;
+}
+#gluten-facts .gluten-facts-list .colored ul li{
+	border-top:1px solid #ffffff;
+}
+
+#gluten-facts .gluten-facts-list .colored ul li:first-child{
+	border-top:0px;
+}
+#gluten-facts .gluten-facts-list .bottom p{
+	font-size:1.12em;
+	text-align:right;
+	margin:0em;
+	font-weight:bold;
+}
+#gluten-facts .gluten-facts-list .bottom p.price{
+	text-align:left;
+	padding-left:20px;
+}
+#gluten-facts .gluten-facts-list .row.bottom{
+	margin-right:0px;
+	margin-left:0px;
+}
+#gluten-facts .gluten-facts-list .bottom .columns{
+	padding-right:0px;
+	padding-left:0px;
+}
+#gluten-facts .gluten-facts-list .bottom ul, #gluten-facts .gluten-facts-list .bottom ul li{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+#gluten-facts .gluten-facts-list .bottom ul li{
+	padding:1.2em 0em;
+	margin: 0em 5em;
+}
+#gluten-facts .gluten-facts-list .bottom ul li{
+	border-top:1px solid #e5ddd1;
+}
+
+#gluten-facts .gluten-facts-list .bottom ul li:first-child{
+	border-top:0px;
+}
+
+#gluten-facts .gluten_last_content{
+	text-align:center;
+}
+#gluten-facts .gluten_last_content h3{
+	font-size:2.0em;
+	font-weight:bold;
+}
+#gluten-facts .gluten_last_content h3 span{
+	font-size:0.7em;
+}
+
+
+ul.facts {
+	margin: 0;
+	list-style: none;
+}
+
+#gluten-facts ul.facts li {
+
+	margin: 0 0 .8em 0;
+	padding: 1.6em 1.9em;
+
+	background: url('../img/bg-fact-box.png') center center no-repeat;
+	background-size: 96%;
+
+	text-align: center;
+
+}
+
+#gluten-facts ul.facts li h3 {
+
+	margin: 0;
+	padding: 0;
+
+	font-size: 1.2em;
+	font-style: normal;
+	font-weight: bold;
+
+}
+
+#gluten-facts ul.facts li span {
+	display: block;
+	font-size: .9em;
+	line-height: 1.3em;
+}
+
+#gluten_sauce{
+	padding:4em 0em;
+}
+
+#gluten_sauce h3{
+	font-weight:bold;
+	font-size:1.6em;
+}
+
+#gluten_sauce > .row > .columns > .columns > .row > .columns{
+padding-left:0em;
+}
+
+#gluten_exceptional{
+	text-align:center;
+}
+#gluten_exceptional > .row{
+	padding-top:4em;
+	padding-bottom:4em;
+	border-top:1px solid #2a1b33;
+}
+
+#gluten_exceptional h3{
+	font-weight:bold;
+	font-style:italic;
+	text-transform:uppercase;
+	font-size:1em;
+}
+#gluten_exceptional p{
+	color:#ffffff;
+}
+#gluten_exceptional .content{
+	background-color:#64586c;
+	border-radius: .4em;
+	padding:1em;
+	min-height:400px;
+}
+#gluten_exceptional .content p{
+	border-top:1px solid #8d7e88;
+	margin-bottom:0px;
+	padding:1em 0em;
+}
+#gluten_exceptional .content p:first-child{
+	border-top:0px;
+}
+#gluten_exceptional .performance .content p:first-child{
+	margin-top:4em;
+}
+#gluten_exceptional .consistency .content p:first-child{
+	margin-top:4em;
+}
+
+
+#flavors-intro {
+	margin-top: -5em;
+}
+
+#flavors-intro img {
+	margin-bottom: 1.4em;
+}
+
+#flavors-intro h4 {
+	color: #343728;
+	font-size: .9em;
+	font-weight: bold;
+}
+
+#flavors-intro ul {
+	color: #343728;
+	font-size: .9em;
+}
+
+
+
+
+
+#recipes {
+	padding-bottom: 2em;
+}
+
+.recipes_head{
+	text-align:center;
+}
+
+#recipes ul {
+	margin: 0;
+	list-style: none;
+}
+
+#recipes li {
+	min-height: 480px;
+}
+
+#recipes li p {
+	margin: 20px 0px;
+}
+
+#recipes h2 {
+	font-size:1.8em;
+	padding:20px 0px;
+	color:#4a4150;
+	border-top:1px solid #4a4150;
+	border-bottom:1px solid #4a4150;
+	margin: 40px auto;
+	display:inline-block;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+
+#recipes h3 {
+
+	padding: .4em 0 0 0;
+	color:#4a4150;
+	font-size: 1.5em;
+	font-weight: bold;
+	min-height:3.8em;
+}
+
+#recipes p {
+	font-size: 1.0em;
+}
+
+.pdf_link{
+	color:#4a4150;
+	font-size:.8em;
+	padding: 1.2em 40px;
+	background-image:url(../img/pdf_icon.png);
+	background-repeat:no-repeat;
+	line-height: 39px;
+	text-decoration:underline;
+}
+
+
+
+
+
+#footer-cta {
+	padding: 4.0em 0;
+	background-color:#8d7e88;
+}
+
+#footer-cta h2 {
+
+	padding: 0;
+	letter-spacing: 1px;
+	line-height:1.2em;
+	color: #fff;
+	font-size: 1.6em;
+	font-style: normal;
+	font-weight: bold;
+
+}
+
+#footer-cta p {
+	padding: 0;
+	font-size: 1.3em;
+	color:#fff;
+	font-style:italic;
+}
+
+#footer-cta p span{
+	font-style:normal;
+}
+
+#footer-cta p a {
+	color: inherit;
+	text-decoration: underline;
+	color:#fff;
+}
+
+#footer-cta .sample-cta {
+
+	text-align: center;
+
+}
+
+#footer-cta .sample-cta p {
+	color: #5c633e;
+	font-size: .7em;
+}
+
+
+
+
+
+
+
+#page-footer {
+	padding: 1.6em 0 3em 0;
+	color: #2a1b33;
+	text-align: center;
+}
+
+#page-footer p, #page-footer a {
+	color: #2a1b33;
+}
+
+#page-footer p {
+	font-size: .8em;
+}
+
+#page-footer ul {
+	margin: 1.3em 0 .8em 0;
+	font-size: 1.0em;
+}
+
+#page-footer ul li {
+	display: inline-block;
+	height: 37px;
+}
+
+#page-footer .truste {
+	width: 134px;
+	height: 37px;
+	margin-left: .5em;
+}
+
+#page-footer .external-links a {
+	display: block;
+	width: inherit;
+	height: inherit;
+
+	line-height: 2.8em;
+
+}
+
+#page-footer .truste a {
+
+	background: url('../img/logo-truste-privacy.png') no-repeat;
+
+	text-indent: -999em;
+
+}
+
+#free-sample-form {
+	padding: 0;
+}
+
+/* Tablet Styles */
+@media only screen and (min-width: 40.063em) and (max-width: 64em) {
+
+	#intro-cta div h2 {
+		font-size: 1.8em;
+	}
+
+	#gluten-facts ul {}
+
+	#gluten-facts #flavors-intro {
+		margin-top: 8.5em;
+	}
+
+	#footer-cta > div {
+		padding: 0 .8em;
+	}
+
+	#footer-cta h2 {
+		text-align: center;
+	}
+	
+	#gluten_sauce .medium-4, #gluten_sauce .medium-3{
+		width:auto;
+		float:none;
+	}
+	#gluten_sauce > .row > .columns > .columns > .row > .columns{
+		padding-left:0em;
+	}
+}
+
+
+/* Phone/Mobile Styles */
+@media only screen and (max-width: 40em) {
+
+	body, html {
+		position: relative;
+		width: 100%;
+		height: 100%;
+	}
+	
+	.empty{
+		display:none;
+	}
+
+	#page-header {
+		position: relative;
+	}
+
+	#page-header > div {
+		position: relative;
+		height: 100%!important;
+		padding-top: 0;
+	}
+
+	#page-header h1 {
+		padding-top:.5em;
+	}
+
+	#page-header > div {
+	}
+	
+	.stouffer_logo, .gluten_free{
+		text-align:center;
+	}
+
+	a.cta-see-recipes{
+		position:relative;
+		padding-top:1em;
+		bottom:1em;
+	}
+	#intro-cta div h2 {
+		margin-bottom: 1.2em;
+		font-size: 1.4em;
+		text-align: center;
+	}
+
+	#intro-cta div .sample-cta span {
+		font-size: .8em;
+		line-height: 1.3em;
+	}
+
+	#gluten-facts .gluten-facts-list .colored p,#gluten-facts .gluten-facts-list .bottom p{
+		text-align:center;
+	}
+	#gluten-facts .gluten-facts-list .colored p.price,#gluten-facts .gluten-facts-list .bottom p.price{
+		text-align:center;
+		padding-left:0px;
+	}
+
+	#customize_alfredo .medium-4{
+		padding:1em 0em;
+	}
+	#customize_alfredo .medium-5 {
+		padding:1em 0em 4em 0em;
+	}
+	.customize-alfredo-callout h2{
+		text-align:center;
+	}
+
+	#recipes > div h2 {
+		font-size: 2em;
+	}
+
+	#footer-cta {
+		padding: 2em 0!important;
+	}
+
+	#footer-cta div h2 {
+		font-size: 1.3em;
+	}
+
+	#page-footer div.logo {
+		padding: 1em 0;
+	}
+	
+	#gluten-facts h2{
+		padding: 20px 40px;
+	}
+	
+	.pans_wrapper .columns{
+		text-align:center;
+	}
+	
+	#gluten_free_growing p {
+    padding: 50px 20px;
+}
+
+}
