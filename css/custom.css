@@ -623,6 +623,11 @@ padding-left:0em;
 
 /* Tablet Styles */
 @media only screen and (min-width: 40.063em) and (max-width: 64em) {
+	a.cta-see-recipes{
+		position:relative;
+		padding-top:1em;
+		bottom:1em;
+	}
 
 	#intro-cta div h2 {
 		font-size: 1.8em;
@@ -671,7 +676,7 @@ padding-left:0em;
 
 	#page-header > div {
 		position: relative;
-		height: 100%!important;
+		height: 100% !important;
 		padding-top: 0;
 	}
 
